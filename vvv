@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Привіт HTML</h1>
-    <img src="img/korabel.jpeg" alt="Russian warship go to the bottom of the Black Sea">
+    <img src="./img/російський корабиль.jpeg" alt="Russian warship go to the bottom of the Black Sea">
 </body>
 </html>
